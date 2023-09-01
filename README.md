@@ -2,17 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=YouJung&fontAlign=50&fontAlignY=35&color=gradient">
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj0111" alt="Top Langs">
-  <a href="https://solved.ac/ooyouj/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ooyouj" alt="Solved.ac Profile">
-  </a>
-</div>
+### 👩🏻‍💻 Backend Developer
+<br>
 
-
-<h3>
-Tech Stack💻
-</h3>
+### 💻 Tech Stack
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
@@ -33,10 +26,9 @@ Tech Stack💻
  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=AmazonS3&logoColor=white"/></a>&nbsp
 </p>
 
-<h3>
-Tools🛠
-</h3>
- 
+<br>
+
+### 🛠 Tools
 <p>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
@@ -44,38 +36,31 @@ Tools🛠
 <img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JIRA&logoColor=white">
 </p>
-
-<h3>
-Education📃
-</h3>
-
-#### 22.06.29~22.12.15 <br>
-#### 아이티윌 Java 개발자 과정 <br>
-미니 프로젝트(<a href="https://github.com/yj0111/Cyworld">https://github.com/yj0111/Cyworld</a>) <br>
-최종 프로젝트(<a href="https://github.com/yj0111/Collabee_project">https://github.com/yj0111/Collabee_project</a>) <br>
 <br>
-#### 2023.01.04~ 현재 <br>
-#### 삼성 청년 SW 아카데미 (SSAFY) 9기  <br>
-1학기 관통 프로젝트 최우수상(1위) 🏆 - 축구 매칭 서비스<br>
-<a href="https://github.com/yj0111/Kitty-Football-Club">https://github.com/yj0111/Kitty-Football-Club</a> <br>
-<a href="https://github.com/yj0111/Kitty-Football-Club-Vue">https://github.com/yj0111/Kitty-Football-Club-Vue</a> <br>
+
+### 📃 Education
+| 기간 | 과정명 | 프로젝트 |
+|---|---|---|
+| 22.06.29 ~ 22.12.15 | 아이티윌 Java 개발자 과정 | 수료 |
+| 2023.01 ~  | 삼성청년SW아카데미(SSAFY)   | 진행중 |
 <br>
-2학기 공통 프로젝트 최우수상(1위) 🏆 - 1:1 언어 교환 서비스<br>
-</p>
- 
+
+### 💾 Project
+진행기간 | 기관명 | 프로젝트명 | 수상내역
+---|---|---|---
+| 2023.05.26 | 아이티윌 | <a href="https://github.com/yj0111/Cyworld">싸이월드 클론코딩</a> | 
+| 2023.05.26 | 아이티윌 | <a href="https://github.com/yj0111/Collabee_project">마켓컬리 클론코딩</a> | 
+| 2023.05.26 | 삼성청년SW아카데미(SSAFY) | <a href="https://github.com/yj0111/Kitty-Football-Club"> 축구팀 경기 매칭 서비스</a>| SSAFY 1학기 관통 프로젝트 서울6반 1위🏆
+| 2023.05.26 | 삼성청년SW아카데미(SSAFY) |  1:1 언어 교환 서비스 | SSAFY 2학기 공통 프로젝트 서울3반 1위🏆
+<br>
+
+### 🎀 Summary
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj0111" alt="Top Langs">
+  <a href="https://solved.ac/ooyouj/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ooyouj" alt="Solved.ac Profile">
+  </a>
+</div>
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyj0111&count_bg=%2396D6E8&title_bg=%237FB0E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-<!--
-**yj0111/yj0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
