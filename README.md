@@ -50,8 +50,8 @@
 ---|---|---|---
 | 2022.10.17 ~ 10.31 | 아이티윌 | <a href="https://github.com/yj0111/Cyworld">싸이월드 클론코딩</a> | 
 | 2022.11.16 ~ 12.16 | 아이티윌 | <a href="https://github.com/yj0111/Collabee_project">마켓컬리 클론코딩</a> | 
-| 2023.05.09 ~ 05.26 | 삼성청년SW아카데미(SSAFY) | <a href="https://github.com/yj0111/Kitty-Football-Club"> 축구팀 경기 매칭 서비스</a>| SSAFY 1학기 관통 프로젝트 서울6반 1위🏆
-| 2023.07.04 ~ 08.18 | 삼성청년SW아카데미(SSAFY) |  1:1 언어 교환 서비스 | SSAFY 2학기 공통 프로젝트 서울3반 1위🏆
+| 2023.05.09 ~ 05.26 | 삼성청년SW아카데미(SSAFY) | <a href="https://github.com/yj0111/Kitty-Football-Club"> 축구팀 경기 매칭 서비스</a>| SSAFY 1학기 관통프로젝트 서울6반 1위🏆
+| 2023.07.04 ~ 08.18 | 삼성청년SW아카데미(SSAFY) |  1:1 언어 교환 서비스 | SSAFY 2학기 공통프로젝트 서울3반 1위🏆
 | 2023.09.01 ~ 09.04 | 개인 프로젝트 |  금융 OPEN API - SSAFY BANK | http://www.ssafybank.com/
 <br>
 
